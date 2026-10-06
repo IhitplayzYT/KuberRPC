@@ -1,0 +1,6 @@
+target/
+.env
+Kuber/.git
+Kuber/.gitignore
+GoRPC/.git
+GoRPC/.gitignore
